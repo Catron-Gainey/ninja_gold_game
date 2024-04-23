@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+h1 {
+    color: blue;
+}
+.top {
+	display: flex;
+}
+.GoldAmount {
+	margin-left: 50px;
+}
+.middle {
+	display: flex;
+	justify-content: space-between;
+}
+.box1, .box2, .box3, .box4{
+    border: 2px solid black;
+}
+.bottom {
+	border: 2px solid black;
+	height: 300px;
+	width: 1500px;
+	overflow: auto;
+}
